@@ -11736,7 +11736,8 @@ section#contact {
 
 section#comingsoon {
   background-color: #212529;
-  background-image: url("../assets/img/temp4.jpeg");
+  /* background-image: url("../assets/img/temp2.png"); */
+  background-color: black;
   background-repeat: no-repeat;
   background-position: center;
 }
